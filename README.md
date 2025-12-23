@@ -1,25 +1,19 @@
-<div align="center">
-  <img src="https://storage.googleapis.com/hume-public-logos/hume/hume-banner.png">
-  <h1>EVI Next.js App Router Example</h1>
-</div>
+# Soul Yatri
 
-![preview.png](preview.png)
+<div align="center">
+  <h1>Soul Yatri - Empathic Voice Interface</h1>
+</div>
 
 ## Overview
 
-This project features a sample implementation of Hume's [Empathic Voice Interface](https://hume.docs.buildwithfern.com/docs/empathic-voice-interface-evi/overview) using Hume's React SDK. Here, we have a simple EVI that uses the Next.js App Router.
+This project is the official interface for Soul Yatri, utilizing advanced empathic voice technologies.
 
 ## Project deployment
 
-Click the button below to deploy this example project with Vercel:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fhumeai%2Fhume-evi-next-js-starter&env=HUME_API_KEY,HUME_SECRET_KEY)
-
-Below are the steps to completing deployment:
-
 1. Create a Git Repository for your project.
-2. Provide the required environment variables. To get your API key and Client Secret key, log into the portal and visit the [API keys page](https://beta.hume.ai/settings/keys).
+2. Deploy to Vercel.
+3. Provide the required environment variables (HUME_API_KEY, HUME_SECRET_KEY).
 
 ## Support
 
-If you have questions, require assistance, or wish to engage in discussions pertaining to this starter template, [please reach out to us on Discord](https://link.hume.ai/discord).
+For support, please contact the Soul Yatri team.
