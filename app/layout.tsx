@@ -7,9 +7,10 @@ import { cn } from "@/utils";
 import { Toaster } from "@/components/ui/sonner";
 import { ThemeProvider } from "@/components/ThemeProvider";
 
+// app/layout.tsx
 export const metadata: Metadata = {
-  title: "Hume AI - EVI - Next.js Starter",
-  description: "A Next.js starter using Hume AI's Empathic Voice Interface",
+  title: "Soul Yatri",
+  description: "Soul Yatri - Empathic Voice Interface",
 };
 
 export default function RootLayout({
